@@ -1,4 +1,4 @@
-# CameraBattery README
+# Camera Battery
 
 ## Overview
 This project implements a `CameraBattery` class that models a rechargeable and removable camera battery. The battery can be charged by connecting it to a camera via USB or using an external charger with adjustable settings. It supports tracking charging, draining, and the current battery status.
